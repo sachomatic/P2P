@@ -1,0 +1,105 @@
+
+Client connected on 192.168.1.20
+Starting keep alive task
+Client: hour_test
+1739899451.0061002
+Server: 1739899451.0061002
+Client: restart
+Server: 1739899451.0061002
+Relaunching
+------------------New session------------------
+Launching server
+Client connected on 192.168.1.20
+Starting keep alive task
+Client: hour_test
+1739899529.8704638
+Server: 1739899529.8704638
+Client: hello
+Server: Unknown command : hello
+Client: restart
+Server: Unknown command : hello
+Relaunching
+------------------New session------------------
+Launching server
+Client connected on 192.168.1.20
+Starting keep alive task
+Client: hour_test
+1739899554.8671691
+Server: 1739899554.8671691
+Client: restart
+Server: 1739899554.8671691
+Relaunching
+------------------New session------------------
+Launching server
+Client connected on 192.168.1.20
+Starting keep alive task
+Client: hour_test
+1739899563.9494407
+Server: 1739899563.9494407
+Client: restart
+Server: 1739899563.9494407
+Relaunching
+------------------New session------------------
+Launching server
+Client connected on 192.168.1.20
+Starting keep alive task
+Client: hour_test
+1739899577.007208
+Server: 1739899577.007208
+Client: stop
+Stopping server...
+Stopping server...
+------------------New session------------------
+Launching server
+Client connected on 192.168.1.20
+Starting keep alive task
+Client: hour_test
+1739899736.733407
+Server: 1739899736.733407
+Client: hello
+Server: Unknown command : hello
+Client: hour_test
+1739899744.449065
+Server: 1739899744.449065
+Client: clear
+Server: Unknown command : clear
+Client: hour_test
+1739899746.62395
+Server: 1739899746.62395
+Client: clear
+Server: Unknown command : clear
+Client: hour_test
+1739899749.9051876
+Server: 1739899749.9051876
+Client: clear
+Server: Unknown command : clear
+Client: restart
+Server: Unknown command : clear
+Relaunching
+------------------New session------------------
+Launching server
+Client connected on 192.168.1.20
+Starting keep alive task
+Client: hour_test
+1739899761.3400285
+Server: 1739899761.3400285
+Client: restart
+Server: 1739899761.3400285
+Relaunching
+------------------New session------------------
+Launching server
+Client connected on 192.168.1.20
+Starting keep alive task
+Client: hour_test
+1739899766.4521658
+Server: 1739899766.4521658
+Client: restart
+Server: 1739899766.4521658
+Relaunching
+------------------New session------------------
+Launching server
+Client connected on 192.168.1.20
+Starting keep alive task
+Client: hour_test
+1739899771.8036025
+Server: 1739899771.8036025
